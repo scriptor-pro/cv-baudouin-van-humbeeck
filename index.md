@@ -48,6 +48,8 @@ journalistes
 
 2014--2017 : Brusselslife -- Journalisme web, CMS propriétaire
 
+2003--2014 : Freelance. Missions variées (newsletter, contenu web, reportage à Val Duchesse, réalisation de court-métrage etc.)
+
 1999--2003 : Wanadoo Belgique -- Rédaction, modération, animation
 
 1993--1999 : Faxpress -- Revue de presse FR/NL/EN, synthèse actualités
