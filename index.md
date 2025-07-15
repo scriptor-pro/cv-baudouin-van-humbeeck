@@ -10,7 +10,7 @@ https://www.linkedin.com/in/baudouinvanhumbeeck
 
 # Profil
 
-Trilingue (FR/NL/EN), passionné de contenus depuis 1995, j'associe une
+Trilingue (FR/NL/EN), passionné de contenus depuis les années 90, j'associe une
 rigueur journalistique à une agilité numérique (SEO, accessibilité, CMS,
 analytics). Curieux, rapide, geek, je suis à l'aise autant dans une
 rédaction que dans une cellule communication ou web.
@@ -33,6 +33,8 @@ Langues : Français (natif), Néerlandais (C2), Anglais (C1)
 2024--2025 : CAP48 -- Rédaction SEO, accessibilité WCAG 2.1 AA
 
 2022--2023 : Accessia -- Audits RGAA, corrections HTML/CSS
+
+2022-- docteur-manuscrit.com -- Lecteur-conseil pour auteurs de fiction
 
 2022 : GSK -- Communication interne, rédaction, photographie
 
